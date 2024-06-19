@@ -1,7 +1,7 @@
-hud                    = 0x4DA65F8
-game_context           = 0x4DB00F8
-view_matrix            = 0x4E1C800
-local_player           = 0x4E2B158
-radar_enable           = 0x4E44F04
+hud                    = 0x4F4A328
+game_context           = 0x4F4F178
+view_matrix            = 0x4B2E3B0
+local_player           = 0x4FD1BA0
+radar_enable           = 0x4FEE374
 entity_manager         = 0x4E46FA8
-yaw_offset             = 0x4DA9908
+yaw_offset             = 0x4F4D798
