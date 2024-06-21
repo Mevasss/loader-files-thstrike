@@ -1,7 +1,7 @@
 hud                    = 0x4F4B328
 game_context           = 0x4F50178
 view_matrix            = 0x4FBC2F0
-local_player           = 0x4FD2AF0
+local_player           = 0x4FD2BA0
 radar_enable           = 0x4FEF2C4
 entity_manager         = 0x4FF1368
 yaw_offset             = 0x4F4E798
