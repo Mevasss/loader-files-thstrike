@@ -1,8 +1,8 @@
-hud                    = 0x4F4F328
-game_context           = 0x4F54178
+hud                    = 0x4F4A328
+game_context           = 0x4F4F178
 view_matrix            = 0x4FC02F0
-local_player           = 0x4FD6B00
-radar_enable           = 0x4FF32D4
-entity_manager         = 0x4FF5378
-yaw_offset             = 0x4F52798
-optics                 = 0x4F60FA8
+local_player           = 0x4FD1B00
+radar_enable           = 0x4FEE2D4
+entity_manager         = 0x4FF0378
+yaw_offset             = 0x4F4D798
+optics                 = 0x4F5BFA8
