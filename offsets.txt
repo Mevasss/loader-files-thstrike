@@ -1,8 +1,8 @@
 hud                    = 0x4F575A8
 game_context           = 0x4F5C448
 view_matrix            = 0x4FC02F0
-local_player           = 0x4FDED50
+local_player           = 0x4FDEE00
 radar_enable           = 0x4FFB514
-entity_manager         = 0x4FFD5B8
+entity_manager         = 0x4FFD668
 yaw_offset             = 0x4F5AA68
 optics                 = 0x4F69278
