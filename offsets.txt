@@ -5,4 +5,4 @@ local_player           = 0x4FF6098
 radar_enable           = 0x5012894
 entity_manager         = 0x5014938
 yaw_offset             = 0x4F71AF8
-optics                 = 0x4F73518
+optics                 = 0x4F80348
