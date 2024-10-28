@@ -1,9 +1,9 @@
-hud                    = 0x519AA88
-game_context           = 0x519FCB0
+hud                    = 0x519CA88
+game_context           = 0x51A1CB0
 view_matrix            = 0x4FC02F0
-local_player           = 0x522CB70
+local_player           = 0x522ED00
 radar_enable           = 0x5252F74
-entity_manager         = 0x524CAC8
-yaw_offset             = 0x519E2F8
-optics                 = 0x51AC768
-crosshair_position     = 0x519E2B0
+entity_manager         = 0x524EE38
+yaw_offset             = 0x51A02F8
+optics                 = 0x51AE768
+crosshair_position     = 0x51A02B0
