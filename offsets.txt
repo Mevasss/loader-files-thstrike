@@ -6,4 +6,4 @@ radar_enable           = 0x5252F74
 entity_manager         = 0x53F3BC8
 yaw_offset             = 0x5395118
 optics                 = 0x5395008
-crosshair_position     = 0x53950D0
+crosshair_position     = 0x53960D0
